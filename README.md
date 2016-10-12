@@ -1,5 +1,5 @@
 # hello-world
-first use in github just for test.
+not the very first,in GitHub just for test.
 
 hello world, new here to see how it goes.
 It's a start, a simple dot
